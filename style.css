@@ -1,0 +1,25 @@
+body {
+    font-family: "Roboto Mono", monospace;
+    text-align: center;
+    background-color: black;
+    background-image: url("https://images.pexels.com/photos/816608/pexels-photo-816608.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1");
+  }
+  
+  .container {
+    text-align: center;
+    padding: 20px;
+  }
+  
+  .title {
+    color: #ffffff;
+    margin: 0 0 5px;
+  }
+
+  .caption {
+    color: #ffffff;
+    margin: 100px 100px 100px;
+    font-size: 30px;
+
+  }
+  
+  
